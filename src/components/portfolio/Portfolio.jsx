@@ -29,7 +29,7 @@ const Portfolio = () => {
           <h3> Athentication project</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com/Gunasekaran12345/Athentication-project-client.git"className='btn' target='_blank'>Githb</a>
-          <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="athentication.pages.dev" className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
           </article>
           <article className='portfolio__item'>
@@ -39,7 +39,7 @@ const Portfolio = () => {
           <h3>   Gallery App</h3>
           <div className="portfolio__item-cta">
           <a href="https://github.com/Gunasekaran12345/Gallery-app.git"className='btn' target='_blank'>Githb</a>
-          <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href="https://my-gallery-app.pages.dev  /" className='btn btn-primary' target='_blank'>Live Demo</a>
          </div>
           </article>
        
